@@ -1,7 +1,3 @@
-## Hanyang Artificial Intelligence
-
-<br>
-
 ## 🙋‍♂️ Who Are We?
 **HAI**는 한양대학교 최초 인공지능 동아리로,
 2017년도 인공지능 스터디 그룹으로 시작하여
